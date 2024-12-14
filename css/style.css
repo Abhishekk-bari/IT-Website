@@ -150,7 +150,7 @@ body{
 .home{
     min-height: 100vh;
     width: 100vw;
-    background-image: url(../images/img1.jpg);
+    background-image: url(../images/home.jpg);
     background-size: cover;
     display: flex;
     align-items: center;
@@ -160,11 +160,13 @@ body{
     padding: 0 1rem;
     position: relative;
     overflow: hidden !important;
+    background-blend-mode: soft-light;
+    
 }
 
 .home h1{
     color: #fff;
-    font-size: 5.5rem;
+    font-size: 8.5rem;
 }
 
 .home h2{
