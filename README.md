@@ -1,4 +1,6 @@
 # IT-Company-Website
+![Screenshot 2025-01-08 185052](https://github.com/user-attachments/assets/95477b03-38e8-4bfe-9fb5-76ac62e0a13d)
+
 
 ## Overview
 
